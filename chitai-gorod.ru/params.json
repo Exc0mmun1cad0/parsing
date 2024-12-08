@@ -1,0 +1,12 @@
+{
+    "errors": [
+        {
+            "code": "01663790-d969-4787-9552-27032f1d7766",
+            "source": {
+                "pointer": "include[0]"
+            },
+            "status": "422",
+            "title": "Значение \"productTexts%2Cpublisher%2CpublisherBrand%2CpublisherSeries%2Cdates%2CliteratureWorkCycle%2Crating%2Ctags\" не соответствует указанному в списке: \"translators\", \"illustrators\", \"publisher\", \"publisherBrand\", \"manufacturer\", \"manufacturerBrand\", \"publisherSeries\", \"productTexts\", \"dates\", \"isbns\", \"binding\", \"ageRestriction\", \"printing\", \"dimensions\", \"files\", \"rating\", \"purchaseStats\", \"seo\", \"schoolProperties\", \"tbks\", \"ekns\", \"literatureWorkCycle\", \"literatureWorkCycleVolume\", \"tags\", \"stationeryProperties\", \"comicProperties\", \"gameProperties\", \"constructorProperties\", \"souvenirProperties\", \"toyProperties\", \"giftProperties\""
+        }
+    ]
+}
